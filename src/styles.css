@@ -1,0 +1,15 @@
+/* You can add global styles to this file, and also import other style files */
+body {
+  background: #2980B9;
+  background: -webkit-linear-gradient(to right, #FFFFFF, #6DD5FA, #2980B9); 
+  background: linear-gradient(to right, #FFFFFF, #6DD5FA, #2980B9); 
+}
+
+.fontTitle{
+  font-family: 'Montserrat', sans-serif;
+  text-transform: uppercase;
+}
+
+.textError{
+  font-size: 1rem;
+}
